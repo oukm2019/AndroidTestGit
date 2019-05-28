@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity
 
     Log.d("MainActivity", "aaa");
     Log.d("MainActivity", "master3");
+    Log.d("MainActivity", "master4");
   }
 }
