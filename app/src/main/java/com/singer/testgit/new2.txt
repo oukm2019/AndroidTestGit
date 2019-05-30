@@ -1,4 +1,12 @@
 aoisora
 asamiyuma
 nihon musume
+<<<<<<< HEAD
 master girl
+=======
+daisukinihonmusume
+>>>>>>> feature1
+new
+--------------------- 
+japan gal
+--------------------- 
