@@ -3,12 +3,4 @@
 aaaaaaaa
 
 
-cccc
-
-dev aoisora
-
-dev2 girl
-dev3 musume
-dev4 gal
-
-
+issue
